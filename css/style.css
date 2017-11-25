@@ -1,0 +1,12 @@
+.pist {
+    width: 100%;
+    border: 1px dashed grey;
+    background-color: #e3e3e3;
+}
+
+.line {
+    height: 110px;
+    border-top: 1px dashed black;
+    display: flex;
+    align-items: center;
+}
