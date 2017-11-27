@@ -120,4 +120,4 @@ class Car {
     
 }
 
-new Manager(10).init();
+new Manager(6).init();
